@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ahmed Ezz</h1>
-<h3 align="center">A passionate Full Stack Developer from Egypt 🇪🇬</h3>
+<h1 align="center"> Ahmed Ezz Aldin</h1>
+<h3 align="center">A passionate Full Stack Developer </h3>
 
 <p align="center">
   <a href="https://github.com/Ahmedezz570" target="_blank">
@@ -13,11 +13,10 @@
 ---
 
 ### 💫 About Me:
-- 🎓 Computer Science Student at **Cairo University** (Expected 2026)
-- 👨‍💻 Full Stack Developer (MERN Stack)
-- 🔍 Currently exploring **Nest.js**, **TypeScript**, **GraphQL**
-- 🔥 Interested in Problem Solving (LeetCode & Codeforces)
-- 🤝 Open for Freelance & Internship opportunities
+-  Computer Science Student at **Cairo University** 
+-  Full Stack Developer (MERN Stack)
+-  Currently exploring **Nest.js**, **TypeScript**, **GraphQL**
+-  Open for Freelance & Internship opportunities
 
 ---
 
