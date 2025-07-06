@@ -1,14 +1,6 @@
 <h1 align="center"> Ahmed Ezz Aldin</h1>
 <h3 align="center">A passionate Full Stack Developer </h3>
 
-<p align="center">
-  <a href="https://github.com/Ahmedezz570" target="_blank">
-    <img src="https://img.shields.io/github/followers/Ahmedezz570?label=Followers&style=social" alt="GitHub Followers">
-  </a>
-  <a href="https://www.linkedin.com/in/ahmed-ezz-aldin-384256289/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" alt="LinkedIn">
-  </a>
-</p>
 
 ---
 
