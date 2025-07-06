@@ -45,5 +45,8 @@
 
 ---
 
-### ⚡ Fun Fact:
-> I enjoy late-night coding while listening to lo-fi beats ☕🎧
+### 📊 Most Used Languages:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmedezz570&layout=compact&theme=radical" />
+</p>
+
