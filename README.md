@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://i.pinimg.com/originals/2a/2d/7f/2a2d7f8e4b8a2f68c8dc01e8c98bde0e.gif" width="250"/>
+</p>
+
 <h1 align="center">👋 I'm Ahmed Ezz Aldin</h1>
 <h3 align="center">Full Stack Developer | Turning ideas into clean, scalable code</h3>
 
