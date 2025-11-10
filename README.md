@@ -58,7 +58,3 @@
 <p align="center">
   <i>“Clean code always tells a story.”</i>
 </p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ahmedezz570&label=Profile%20views&color=0e75b6&style=flat" alt="Ahmed Ezz" />
-</p>
